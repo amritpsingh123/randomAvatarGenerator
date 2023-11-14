@@ -1,0 +1,1 @@
+export const Api_URL = "https://65196521818c4e98ac605417.mockapi.io/samosa/"
